@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <!-- title and style declaration -->
+    <title>WELCOME.</title>
+    <style>   
+        a {    text-decoration: underline;    color: #ff0000; }
+        body { color: #cccccc; }
+        .center {display: block; margin-left: auto; margin-right: auto;}
+        .container{text-align:center;}
+        .img{display:inline-block; margin:5px 20px; padding:5px; border:1px solid #CCC;}
+    </style>
+  </head>
+  <body>
+    <!-- This only works if I put it here, I do not know why; I do not need to find out why at this time.-->
+    <body style="background-color:black;">
+    <!-- Header -->
+    <h3>Desiree 'Archie' Bunce</h3>
+    <h4>Year 1 Computing Scholar at Canterbury Christ Church University, Barista at Starbucks Canterbury & Web Developer</h4>
+    <h5>Phone: 07927 338936<br>Email Address: AB2036@canterbury.ac.uk<br><br>
+    <h4>About Me:</h4>
+    <hr>
+    
+    <blockquote>With my prior experience in fast-paced, customer fulfillment-focused environment my ability to remain punctual and consistant is proven. Above all else, I hold a strong desire to improve and innovate on my previous work. I always put my best foot forward - and according those that I have worked alongside and for, I am certaintly capable of delivering high-quality customer service, putting a strong emphasis on end-user experience.</blockquote><blockquote>I have been told that I am highly flexible in my approach to problems and thrive when navigating and adapting to new situations. I readily embrace change without complaint, and find it easier to think of solutions than to overthink the problem at hand. I consider myself to be deeply passionate about Computing, I am steadfast in my desire to learn more about it - and intend on specialising into Data Analytics after my tenure of studies at Canterbury Christ Church.</blockquote>
+    
+<!-- A table would have worked best for this. Too bad! -->
+    <h4>Work Experience & Skills:</h4><hr><blockquote>
+    <strong>Starbucks, Canterbury</strong> | August 2023 - Present<hr>Barista, Trained and qualified in Customer Service, Beverage Preparation, Janitorial Work, POS UI/UX and Inventory Management<hr></blockquote><blockquote> <strong>McDonalds, Westwood</strong> | April 2022 - August 2022<hr>Crew Member, Trained in Food Preparation, Customer Service, and General Maintenance<hr></blockquote><blockquote> <Strong>All Site Services</Strong> | August 2019 - Present<hr>Website Administrator, Technician & Designer for [ADD IN OFFLINE COPY]</blockquote>
+    
+    <h4>Qualifications:</h4><hr>
+    <blockquote><strong>BTEC Level 3 Extended Diploma (QCF) in Computing - Pearson - 12/07/23</strong><hr> Overall Grade: Merit*Merit*Merit</blockquote>
+    <blockquote><strong>BTEC Level 3 National Foundation Diploma (QCF) in Computing - Pearson - 14/07/22 </strong><hr> Overall Grade: Merit</blockquote>
+    <blockquote><strong>BTEC Level 1 National Foundation Diploma in Engineering - CNAT - 01/07/21 </strong><hr> Overall Grade: Distinction</blockquote>
+    <blockquote><strong>BTEC Diploma in Digital Information Technology - BTEC - 01/07/21 </strong><hr> Overall Grade: Pass</blockquote>
+    <blockquote><strong>Edexcel Certificate of Secondary Education in Combined Science - 01/07/21 </strong><hr> Overall Grade: 54 - Merit / Pass</blockquote>
+    <blockquote><strong>Edexcel Certificate of Secondary Education in English Literature - 01/07/21 </strong><hr> Overall Grade: 5 - Merit</blockquote>
+    <blockquote><strong>Edexcel Certificate of Secondary Education in Mathematics - 01/07/21</strong><hr> Overall Grade: 5 - Merit</blockquote>
+    <blockquote><strong>Edexcel Certificate of Secondary Education in English Language - 01/07/21</strong><hr> Overall Grade: 4 - Pass</blockquote>
+    
+    <h4>Education History</h4><hr>
+    <blockquote><strong> Computing at Canterbury Christ Church University</strong> (September 2023 - Onwards.)<br><strong>Computing at Broadstairs College</strong> (September 2021 - July 2023.)<br><strong>Ursuline College, Westgate-On-Sea</strong> (February 2020 - July 2021.)<br><strong>St. Lawerence College, Ramsgate</strong> (September 2016 - February 2020.)</blockquote>
+    
+    <h4>Professional References</h4><hr>
+    <blockquote><strong>Mr. Tim Jackson</strong>, Senior Lecturer at Canterbury Christ Church University<br>tim.jackson@eastkent.ac.uk<br><br> 
+    <strong>Mr. Matthew Hunt</strong>, Computing Lecturer @ Broadstairs College<br> matthew.hunt@eastkent.ac.uk<br><br> 
+<hr>
+    <center>
+    </center>
+    <br>
+    <center>
+    <font color="white" size="1">
+    <p> 2024, Desiree 'Archie' Bunce<br>
+    This website was Coded using HTML5 and Microsoft Notepad.<br>Sources listed in Assessment Submission.</p>
+    </font></center>
+    </body>
+</html>
